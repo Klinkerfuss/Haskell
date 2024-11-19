@@ -1,0 +1,4 @@
+Submeter codigo
+git add .
+git commit -m "ListaPintoFinalizada"
+git push
